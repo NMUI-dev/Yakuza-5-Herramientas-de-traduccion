@@ -1,0 +1,5 @@
+# lo que se crea al usar las herramientas (lleva archivos del juego)
+trabajo/
+salida/
+__pycache__/
+*.pyc
