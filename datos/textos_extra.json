@@ -30587,14 +30587,14 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01020cda.msg",
 "ptr": 23824,
 "t": "Ousaka Enterprises Employee",
-"es": "Empleado de Ousaka Enterprises"
+"es": "Empleado de Empresas Ousaka"
 },
 {
 "f": "nom",
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01020cda.msg",
 "ptr": 23864,
 "t": "Tan Ousaka Enterprises Employee",
-"es": "Empleado bronceado de Ousaka Enterprises"
+"es": "Empleado bronceado de Empresas Ousaka"
 },
 {
 "f": "nom",
@@ -74827,7 +74827,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016900c8.msg",
 "ptr": 40452,
 "t": "Bloody something-or-other?",
-"es": "¡Maldita sea, o algo así!"
+"es": "¿Maldito no-sé-qué?"
 },
 {
 "f": "nom",
@@ -83122,7 +83122,7 @@
 "f": "sub",
 "a": "A1010.csv",
 "t": "You run a clan of over 30 thousand, yet you defer\nto a man with less than 500 soldiers to his name?",
-"es": "Diriges un clan de más de 30 mil, pero te doblegas\nante un hombre con menos de 500 soldados a su nombre?"
+"es": "¿Diriges un clan de más de 30 mil, pero te doblegas\nante un hombre con menos de 500 soldados a su nombre?"
 },
 {
 "f": "sub",
@@ -85876,7 +85876,7 @@
 "f": "sub",
 "a": "B2050.csv",
 "t": "So. Ya offed this guy so your aniki\r\ncould keep climbin' the ladder.",
-"es": "Así que. ¿Liquidaste a este tipo\r\npara que tu Aniki siguiera subiendo?"
+"es": "Así que liquidaste a este tipo\npara que tu Aniki siguiera subiendo."
 },
 {
 "f": "sub",
@@ -86530,7 +86530,7 @@
 "f": "sub",
 "a": "B2200.csv",
 "t": "Who knew they gave our guards\nsuch antique hunks of scrap?",
-"es": "Quién diría que a nuestros guardias\ndaban semejantes chatarra antigua."
+"es": "Quién diría que a nuestros guardias\nles dieron semejante chatarra antigua."
 },
 {
 "f": "sub",
@@ -88204,7 +88204,7 @@
 "f": "sub",
 "a": "C3255.csv",
 "t": "Hold on a sec. <Italic>You're</Italic> the new girl\r\nPark-san was raving about?",
-"es": "Espera un segundo. <Italic>Tú</Italic> eres la chica nueva\r\nde la que Park-san no paraba de hablar?"
+"es": "Espera un segundo. ¿<Italic>Tú</Italic> eres la chica nueva\nde la que Park-san no paraba de hablar?"
 },
 {
 "f": "sub",
@@ -88618,7 +88618,7 @@
 "f": "sub",
 "a": "C3420.csv",
 "t": "I also serve as the Omi Alliance Chief of HQ, \nand chairman of Ousaka Enterprises.",
-"es": "También sirvo como Jefe de Cuartel General\nde la Alianza Omi, y presidente de Ousaka Enterprises."
+"es": "También sirvo como Jefe de Cuartel General\nde la Alianza Omi, y presidente de Empresas Ousaka."
 },
 {
 "f": "sub",
@@ -88642,7 +88642,7 @@
 "f": "sub",
 "a": "C3420.csv",
 "t": "It's the only way for us to track\r\ndown Park-san's former husband, you see.",
-"es": "Es la única forma de rastrear\r\na exmarido de Park-san, ¿ven?"
+"es": "Es la única forma de rastrear\nal exmarido de Park-san, ¿ven?"
 },
 {
 "f": "sub",
@@ -88870,7 +88870,7 @@
 "f": "sub",
 "a": "C3445.csv",
 "t": "Seriously, don't they teach you\r\nguys <Italic>anything</Italic> nowadays?",
-"es": "En serio, ¿no os enseñan\r\n<Italic>nada</Italic> hoy en día?"
+"es": "En serio, ¿no les enseñan\n<Italic>nada</Italic> hoy en día?"
 },
 {
 "f": "sub",
@@ -88882,7 +88882,7 @@
 "f": "sub",
 "a": "C3445.csv",
 "t": "Dream all ya want, but none o' that\r\nmeans dick when you're facin' real strength.",
-"es": "Soñad lo que queráis, pero nada de eso\r\nimporta un carajo cuando te enfrentas a la fuerza real."
+"es": "Sueñen lo que quieran, pero nada de eso\nimporta un carajo cuando te enfrentas a la fuerza real."
 },
 {
 "f": "sub",
@@ -88912,13 +88912,13 @@
 "f": "sub",
 "a": "C3460.csv",
 "t": "Yet here we are. Akiyama beat every last one\nof you, and we still don't have the letter.",
-"es": "Y aquí estamos. Akiyama os ha vencido a todos,\ny seguimos sin la carta."
+"es": "Y aquí estamos. Akiyama les ganó a todos,\ny seguimos sin la carta."
 },
 {
 "f": "sub",
 "a": "C3460.csv",
 "t": "You had our best interests in mind, though,\r\nso I'm not going to scold you.",
-"es": "Pero teníais buena intención,\r\nasí que no os voy a regañar."
+"es": "Pero tenían buena intención,\nasí que no los voy a regañar."
 },
 {
 "f": "sub",
@@ -89314,7 +89314,7 @@
 "f": "sub",
 "a": "C3510.csv",
 "t": "Princess League 2012 has finally reached its climax!\nThe finals begiiin... NOW!",
-"es": "¡La Princess League 2012 por fin ha llegado a su clímax!\n¡La final cooomienza... ¡AHORA!"
+"es": "¡La Princess League 2012 por fin ha llegado a su clímax!\n¡La final cooomienza... AHORA!"
 },
 {
 "f": "sub",
@@ -89902,7 +89902,7 @@
 "f": "sub",
 "a": "C3600.csv",
 "t": "Shut it, you two!\r\nHave a little decency, will ya?",
-"es": "¡Cállense las dos!\r\n¡Tengan un poco de decencia, ¿sí?"
+"es": "¡Cállense las dos!\nTengan un poco de decencia, ¿sí?"
 },
 {
 "f": "sub",
@@ -90220,7 +90220,7 @@
 "f": "sub",
 "a": "D4020.csv",
 "t": "<Italic>And</Italic> you're borrowing\r\nfrom that guy at the door?",
-"es": "<Italic>Y</Italic> le pides prestado\r\na ese tipo de la puerta?"
+"es": "¿<Italic>Y</Italic> le pides prestado\na ese tipo de la puerta?"
 },
 {
 "f": "sub",
@@ -91372,7 +91372,7 @@
 "f": "sub",
 "a": "E5080.csv",
 "t": "It ain't about whether or\nnot he cast aside your oath.",
-"es": "No se trata de si él\nrenunció a vuestro juramento."
+"es": "No se trata de si él\nrenunció a su juramento."
 },
 {
 "f": "sub",
@@ -91456,7 +91456,7 @@
 "f": "sub",
 "a": "E5100.csv",
 "t": "Most of Ousaka Enterprises' men\nare already in Kamurocho.",
-"es": "La mayoría de los hombres de Ousaka Enterprises\nya están en Kamurocho."
+"es": "La mayoría de los hombres de Empresas Ousaka\nya están en Kamurocho."
 },
 {
 "f": "sub",
@@ -91468,7 +91468,7 @@
 "f": "sub",
 "a": "E5100.csv",
 "t": "Ousaka Enterprises may have struck\nsome kind of deal with the Tojo Clan.",
-"es": "Ousaka Enterprises puede haber cerrado\nalgún trato con el Clan Tojo."
+"es": "Empresas Ousaka puede haber cerrado\nalgún trato con el Clan Tojo."
 },
 {
 "f": "sub",
@@ -91840,7 +91840,7 @@
 "f": "sub",
 "a": "E5250.csv",
 "t": "Daigo Dojima-san, Ousaka\nEnterprises' Naoki Katsuya...",
-"es": "Daigo Dojima-san, Naoki Katsuya\nde Ousaka Enterprises..."
+"es": "Daigo Dojima-san, Naoki Katsuya\nde Empresas Ousaka..."
 },
 {
 "f": "sub",
@@ -99664,7 +99664,7 @@
 "off": 46333,
 "ptr": 46992,
 "t": "Phew...",
-"es": "¡Ay..."
+"es": "Ay..."
 },
 {
 "f": "rep",
@@ -100936,7 +100936,7 @@
 "off": 64025,
 "ptr": 64228,
 "t": "Kyuta the Kid  ",
-"es": "Kyuta el Chaval  "
+"es": "Kyuta el Chico  "
 },
 {
 "f": "rep",
@@ -103240,7 +103240,7 @@
 "off": 119756,
 "ptr": 163664,
 "t": "Little Asia Chair",
-"es": "Silla Little Asia"
+"es": "Silla Pequeña Asia"
 },
 {
 "f": "rep",
@@ -103248,7 +103248,7 @@
 "off": 119774,
 "ptr": 163668,
 "t": "Little Asia Table",
-"es": "Mesa Little Asia"
+"es": "Mesa Pequeña Asia"
 },
 {
 "f": "rep",
@@ -113816,7 +113816,7 @@
 "off": 247354,
 "ptr": 254700,
 "t": "Kamurocho Hills",
-"es": "Colinas de Kamurocho"
+"es": "Kamurocho Hills"
 },
 {
 "f": "rep",
@@ -113976,7 +113976,7 @@
 "off": 247614,
 "ptr": 254780,
 "t": "Little Asia North Entrance",
-"es": "Entrada norte de Little Asia"
+"es": "Entrada norte de Pequeña Asia"
 },
 {
 "f": "rep",
@@ -113984,7 +113984,7 @@
 "off": 247641,
 "ptr": 254784,
 "t": "Little Asia South Entrance",
-"es": "Entrada sur de Little Asia"
+"es": "Entrada sur de Pequeña Asia"
 },
 {
 "f": "rep",
@@ -113992,7 +113992,7 @@
 "off": 247668,
 "ptr": 254788,
 "t": "Little Asia West Entrance",
-"es": "Entrada oeste de Little Asia"
+"es": "Entrada oeste de Pequeña Asia"
 },
 {
 "f": "rep",
@@ -114000,7 +114000,7 @@
 "off": 247694,
 "ptr": 254792,
 "t": "Little Asia East Entrance",
-"es": "Entrada este de Little Asia"
+"es": "Entrada este de Pequeña Asia"
 },
 {
 "f": "rep",
@@ -115072,7 +115072,7 @@
 "off": 250298,
 "ptr": 255332,
 "t": "M Store Chikuzengawa",
-"es": "M Store Chikuzengawa"
+"es": "Tienda M Chikuzengawa"
 },
 {
 "f": "rep",
@@ -115080,7 +115080,7 @@
 "off": 250319,
 "ptr": 255336,
 "t": "M Store Nagasugawa",
-"es": "M Store Nagasugawa"
+"es": "Tienda M Nagasugawa"
 },
 {
 "f": "rep",
@@ -115296,7 +115296,7 @@
 "off": 250766,
 "ptr": 255444,
 "t": "M Store Modern Street",
-"es": "M Store Calle Modern"
+"es": "Tienda M Calle Modern"
 },
 {
 "f": "rep",
@@ -116168,7 +116168,7 @@
 "off": 252778,
 "ptr": 255880,
 "t": "M Store Kineicho",
-"es": "M Store Kineicho"
+"es": "Tienda M Kineicho"
 },
 {
 "f": "rep",
@@ -117800,7 +117800,7 @@
 "off": 872122,
 "ptr": 876676,
 "t": "M Store",
-"es": "M Store"
+"es": "Tienda M"
 },
 {
 "f": "rep",
@@ -118256,7 +118256,7 @@
 "off": 873009,
 "ptr": 876904,
 "t": "M Store Nagasugawa",
-"es": "M Store Nagasugawa"
+"es": "Tienda M Nagasugawa"
 },
 {
 "f": "rep",
@@ -118264,7 +118264,7 @@
 "off": 873028,
 "ptr": 876908,
 "t": "M Store Kineicho",
-"es": "M Store Kineicho"
+"es": "Tienda M Kineicho"
 },
 {
 "f": "rep",
@@ -118296,7 +118296,7 @@
 "off": 873100,
 "ptr": 876924,
 "t": "M Store Chikuzengawa",
-"es": "M Store Chikuzengawa"
+"es": "Tienda M Chikuzengawa"
 },
 {
 "f": "rep",
@@ -119352,7 +119352,7 @@
 "off": 875297,
 "ptr": 877456,
 "t": "Kamurocho Hills",
-"es": "Colinas de Kamurocho"
+"es": "Kamurocho Hills"
 },
 {
 "f": "rep",
@@ -121808,7 +121808,7 @@
 "off": 904648,
 "ptr": 906300,
 "t": "No sweat... Right!?",
-"es": "Sin problema... ¿¿Verdad?!"
+"es": "Sin problema... ¡¿Verdad?!"
 },
 {
 "f": "rep",
@@ -121816,7 +121816,7 @@
 "off": 904668,
 "ptr": 906304,
 "t": "T-Two at a time? I can't do that.",
-"es": "¿¿D-Dos a la vez?? No puedo hacer eso."
+"es": "¿D-Dos a la vez? No puedo hacer eso."
 },
 {
 "f": "rep",
@@ -121888,7 +121888,7 @@
 "off": 904948,
 "ptr": 906344,
 "t": "Come on.",
-"es": "Venga."
+"es": "Vamos."
 },
 {
 "f": "rep",
@@ -122466,7 +122466,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
 "ptr": 22000,
 "t": "There is only one \"M Store\" convenience(改行)store in Sotenbori. True or false?(改行)",
-"es": "Solo hay una tienda de conveniencia \"M Store\" en(改行)Sotenbori. ¿Verdadero o falso?(改行)"
+"es": "Solo hay una tienda de conveniencia \"M\" (Tienda M) en(改行)Sotenbori. ¿Verdadero o falso?(改行)"
 },
 {
 "f": "nom",
