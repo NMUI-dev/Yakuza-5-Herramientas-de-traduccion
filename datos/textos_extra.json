@@ -18295,7 +18295,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00330444.msg",
 "ptr": 4256,
 "t": "Have you seen a Christina?",
-"es": "¿Has visto a una tal Christina?"
+"es": "¿Has visto a un tal Christina?"
 },
 {
 "f": "nom",
@@ -19919,7 +19919,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0033050c.msg",
 "ptr": 9932,
 "t": "Have you seen a Christina?",
-"es": "¿Has visto a una tal Christina?"
+"es": "¿Has visto a un tal Christina?"
 },
 {
 "f": "nom",
@@ -43740,7 +43740,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid010c0de4.msg",
 "ptr": 53884,
 "t": "She sells seasnells by the seashore.",
-"es": "Ella vende concnas en la orilla del mar."
+"es": "Ella vende conchas en la orilla del mar."
 },
 {
 "f": "nom",
@@ -83926,7 +83926,7 @@
 "f": "sub",
 "a": "A1150.csv",
 "t": "You're lying through your teeth\nand I know it, Uncle Kaz.",
-"es": "Mientes descaradamente\ny lo sé, Kaz-nee."
+"es": "Mientes descaradamente\ny lo sé, viejo Kaz."
 },
 {
 "f": "sub",
@@ -84094,7 +84094,7 @@
 "f": "sub",
 "a": "A1225.csv",
 "t": "The seventh Omi chairman is\nterminally ill. Ya hear 'bout that?",
-"es": "El séptimo presidente de la Alianza Omi\nestá terminalmente ill. ¿Te enteraste?"
+"es": "El séptimo presidente de la Alianza Omi\ntiene una enfermedad terminal. ¿Te enteraste?"
 },
 {
 "f": "sub",
@@ -85780,7 +85780,7 @@
 "f": "sub",
 "a": "B2025.csv",
 "t": "Don't got much time.\r\nGonna have to settle this quick.",
-"es": "No tengo mucho tiempo.\r\nVoy a tener que zanjárlo rápido."
+"es": "No tengo mucho tiempo.\nVoy a tener que zanjarlo rápido."
 },
 {
 "f": "sub",
@@ -85966,7 +85966,7 @@
 "f": "sub",
 "a": "B2065.csv",
 "t": "Kugihara? You mean that bald-headed creep\nthey tossed in here six months ago?",
-"es": "¿Kugihara? ¿Ese pelado creep\ny que metieron aquí hace seis meses?"
+"es": "¿Kugihara? ¿Ese pelón asqueroso\nque metieron aquí hace seis meses?"
 },
 {
 "f": "sub",
@@ -86482,7 +86482,7 @@
 "f": "sub",
 "a": "B2170.csv",
 "t": "Be glad to oblige.\r\nNow then, let's see here...",
-"es": "Encantado de obligar.\r\nBueno, veamos..."
+"es": "Con mucho gusto.\nBueno, veamos..."
 },
 {
 "f": "sub",
@@ -86914,7 +86914,7 @@
 "f": "sub",
 "a": "B2350.csv",
 "t": "I only called you aniki\r\nbecause I looked up to you!",
-"es": "Solo te llamé aniki\r\n¡porque te admirába!"
+"es": "Solo te llamé aniki\n¡porque te admiraba!"
 },
 {
 "f": "sub",
@@ -87010,7 +87010,7 @@
 "f": "sub",
 "a": "B2360.csv",
 "t": "If I let the truth slip here,\r\nI'm as good as dead.",
-"es": "Si dejo escapar la verdad aquí,\r\nestoy tan bueno como muerto."
+"es": "Si dejo escapar la verdad aquí,\nsoy hombre muerto."
 },
 {
 "f": "sub",
@@ -87982,7 +87982,7 @@
 "f": "sub",
 "a": "C3185.csv",
 "t": "My marriage was just one more\r\nneedle in the haystack.",
-"es": "Mi matrimonio fue solo una aguja más\r\nel pajar."
+"es": "Mi matrimonio fue solo una aguja más\nen el pajar."
 },
 {
 "f": "sub",
@@ -88348,7 +88348,7 @@
 "f": "sub",
 "a": "C3256.csv",
 "t": "If the answer was no, would you\r\nbe a good girl and listen?",
-"es": "Si la respuesta es no, ¿vas a ser\r\ngena y me vas a escuchar?"
+"es": "Si la respuesta es no, ¿vas a una\nbuena chica y me vas a escuchar?"
 },
 {
 "f": "sub",
@@ -90070,7 +90070,7 @@
 "f": "sub",
 "a": "D4010.csv",
 "t": "I'll say. Maybe Sakai's hurting\r\nafter the slugfest we witnessed today.",
-"es": "Desde luego. Quizá Sakai esté lastimado\r\ntra el festival de jonrones que vimos hoy."
+"es": "Desde luego. Quizá Sakai esté lastimado\ntras el festival de jonrones que vimos hoy."
 },
 {
 "f": "sub",
@@ -91444,7 +91444,7 @@
 "f": "sub",
 "a": "E5090.csv",
 "t": "Public Security has had eyes\non him for a few years now.",
-"es": "Seguridad Pública le tiene\nevigilado desde hace unos años."
+"es": "Seguridad Pública lo tiene\nvigilado desde hace unos años."
 },
 {
 "f": "sub",
@@ -92266,7 +92266,7 @@
 "f": "sub",
 "a": "E5430.csv",
 "t": "Now all that's left is to see\nhow Kiryu-san wraps this up.",
-"es": "Ahora solo queda ver\nhow Kiryu-san resuelve esto."
+"es": "Ahora solo queda ver\ncómo Kiryu-san resuelve esto."
 },
 {
 "f": "sub",
@@ -92296,7 +92296,7 @@
 "f": "sub",
 "a": "E5440.csv",
 "t": "And if the Tojo Clan hadn't fractured\nafter Fifth Chairman Terada's betrayal...",
-"es": "Y si el Clan Tojo no se hubiera roto\ntra la traición del quinto presidente Terada..."
+"es": "Y si el Clan Tojo no se hubiera roto\ntras la traición del quinto presidente Terada..."
 },
 {
 "f": "sub",

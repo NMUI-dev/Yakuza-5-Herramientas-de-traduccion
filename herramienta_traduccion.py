@@ -15,7 +15,7 @@ El código viene del proyecto (herramientas\\extraer.py, aplicar.py, msg_y5.py, 
 copiado y joined en un solo archivo para que la herramienta no dependa de nada más que Python 3.
 
 Opciones: --ingles "<carpeta data del juego en inglés>" (por defecto: ..\\respaldo_original que deja el instalador, o el
-juego de Steam si aún no tiene la traducción). Ver COMO_USAR.txt y GUIA_PASO_A_PASO.md.
+juego de Steam si aún no tiene la traducción). Ver COMO_USAR.txt y PASO_A_PASO.txt.
 """
 import calendar, csv, json, os, re, shutil, struct, subprocess, sys, time, collections
 

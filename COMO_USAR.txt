@@ -1,12 +1,8 @@
-﻿HERRAMIENTAS PARA TRADUCCIÓN - YAKUZA 5 REMASTERED (v1.0.4)
+﻿HERRAMIENTAS PARA TRADUCCIÓN - YAKUZA 5 REMASTERED (v1.0.5)
 ==================================================
 
 Con esto puedes ver TODOS los textos del juego (inglés original y español al lado), corregir los que quieras y volver a
-meterlos en el juego. La guía completa está en GUIA_PASO_A_PASO.md.
-
-ANTES DE EMPEZAR: esta carpeta tiene que estar DENTRO de la carpeta de la traducción, junto a «archivos» e
-«INSTALAR o QUITAR.bat». Descarga la traducción de:
-https://github.com/NMUI-dev/Yakuza-5-Remastered-Espa-ol-Spanish/releases/latest
+meterlos en el juego. Qué se hizo y cómo funciona por dentro: PASO_A_PASO.txt.
 
 NECESITAS
 - Python 3 (gratis): https://www.python.org -> al instalar marca «Add python.exe to PATH».
@@ -26,7 +22,7 @@ PASOS
    - Respeta las marcas como <Color...>, <Action...>, <Sign...> o {player_name} y los saltos de línea dentro de la celda.
    - Las palabras que se ven en el juego como dibujo (imágenes) no están aquí: se copian tal cual.
 3. Doble clic en «APLICAR textos.bat». Tarda (los .par se rearman escena por escena).
-   Deja el resultado en «salida» y lo copia encima de la carpeta «archivos» de la traducción.
+   Deja el resultado en «salida» y lo copia encima de la carpeta «archivos» del instalador.
 4. Cierra el juego y ejecuta «INSTALAR o QUITAR.bat» (opción 1) de la carpeta de arriba.
 
 Los mensajes del sistema (data\db.devil\en\msg.bin: guardar partida, regalos, errores) también salen en el CSV y
@@ -38,7 +34,7 @@ DESDE LA v1.0.2 el CSV también trae (columna «donde» empieza por «extra-»):
 - extra-sub: subtítulos de escena de DOS renglones.
 - extra-rep: frases de db.devil\en\msg.bin y msg_replacer.bin (carteles de zona, objetos, enemigos,
   comentarios de los dardos). Respeta los ${...} y los saltos de línea.
-Si no cambias nada, «APLICAR» deja exactamente los mismos textos que el paquete v1.0.4.
+Si no cambias nada, «APLICAR» deja exactamente los mismos textos que el paquete v1.0.5.
 
 
 Para empezar de cero (otra versión del juego, otro idioma de base): borra la carpeta «trabajo».
@@ -46,5 +42,4 @@ Para empezar de cero (otra versión del juego, otro idioma de base): borra la ca
 PROGRAMAS INCLUIDOS (gratuitos, de sus autores)
 - ParTool, del proyecto ParManager (Kaplas80): abre y rearma los .par de SEGA.
 - reARMP (de Ret-HZ, licencia GPL-2, ver programas\reARMP\LICENSE): disponible si hiciera falta para tablas ARMP.
-- texconv (Microsoft, licencia MIT): convierte las imágenes .dds. Cómo usarlo: GUIA_PASO_A_PASO.md, sección 5.
 Desde la consola también vale: python herramienta_traduccion.py extraer | aplicar [--ingles "<carpeta data>"]
