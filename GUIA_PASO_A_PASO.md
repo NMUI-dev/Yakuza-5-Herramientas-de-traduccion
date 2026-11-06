@@ -1,7 +1,7 @@
 # Guía para traducir Yakuza 5 Remastered
 
 Todo lo que necesitas para corregir nuestra traducción, pasarla a otro idioma o traducir otro Yakuza. Los comandos y las
-cifras de esta guía se probaron el 03-11-2026 con la traducción v1.0.4.
+cifras de esta guía se probaron el 03-11-2026 con la traducción v1.0.4 (la v1.0.5 solo cambia textos y 7 imágenes).
 
 **Probado solo en:** Yakuza 5 Remastered de Steam (appid 1105510, build 6407471), con el juego en inglés, en Windows 11.
 
@@ -83,7 +83,7 @@ Los vídeos no se tocan. Lo dibujado dentro se queda en inglés; sus subtítulos
 
 - **Traducción automática:** 326 lotes en unas 19 horas (20 y 21-10-2026), con 3 traductores gratuitos en paralelo.
 - **Imágenes:** fue lo más largo. Tras la primera versión, una revisión a ojo de 905 imágenes encontró 234 malas.
-- **Versiones:** salieron cuatro correcciones (v1.0.1 a v1.0.4) por cosas que se escaparon. La sección 8 explica cada una.
+- **Versiones:** salieron cinco correcciones (v1.0.1 a v1.0.5) por cosas que se escaparon; la v1.0.5 (589 frases: género, inglés metido, faltas, una tanda corrida una fila) está en programas/revision_v105/LEEME.md. La sección 8 explica cada una.
 
 ## 3. Preparar todo
 
@@ -105,7 +105,7 @@ Los vídeos no se tocan. Lo dibujado dentro se queda en inglés; sus subtítulos
 3. Descomprímelo **dentro** de la carpeta de la traducción. Debe quedar así:
 
    ```text
-   Yakuza 5 - Traduccion al espanol v1.0.4\
+   Yakuza 5 - Traduccion al espanol v1.0.5\
        archivos\                        lo que se instala en el juego
        INSTALAR o QUITAR.bat
        Yakuza-5-Herramientas-de-traduccion-main\
