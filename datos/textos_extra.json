@@ -77753,28 +77753,28 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
 "ptr": 21820,
 "t": "\"Kani Douraku.\"",
-"es": "\"Kani Douraku.\""
+"es": "\"Kani Douraku\"."
 },
 {
 "f": "nom",
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
 "ptr": 21824,
 "t": "\"Uni Douraku.\"",
-"es": "\"Uni Douraku.\""
+"es": "\"Uni Douraku\"."
 },
 {
 "f": "nom",
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
 "ptr": 21832,
 "t": "\"Iwai Bridge.\"",
-"es": "\"Puente Iwai.\""
+"es": "\"Puente Iwai\"."
 },
 {
 "f": "nom",
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
 "ptr": 21836,
 "t": "\"Iwao Bridge.\"",
-"es": "\"Puente Iwao.\""
+"es": "\"Puente Iwao\"."
 },
 {
 "f": "nom",
@@ -77893,28 +77893,28 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
 "ptr": 22016,
 "t": "\"Tsuruhashi Fugetsu.\"",
-"es": "\"Tsuruhashi Fugetsu.\""
+"es": "\"Tsuruhashi Fugetsu\"."
 },
 {
 "f": "nom",
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
 "ptr": 22020,
 "t": "\"Tallahassee Fugetsu.\"",
-"es": "\"Tallahassee Fugetsu.\""
+"es": "\"Tallahassee Fugetsu\"."
 },
 {
 "f": "nom",
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
 "ptr": 22028,
 "t": "\"Magutako.\"",
-"es": "\"Magutako.\""
+"es": "\"Magutako\"."
 },
 {
 "f": "nom",
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
 "ptr": 22032,
 "t": "\"Tako Heaven.\"",
-"es": "\"Tako Heaven.\""
+"es": "\"Tako Heaven\"."
 },
 {
 "f": "nom",
@@ -78019,14 +78019,14 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901d5.msg",
 "ptr": 22008,
 "t": "\"Style Bar.\"",
-"es": "\"Style Bar.\""
+"es": "\"Style Bar\"."
 },
 {
 "f": "nom",
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901d5.msg",
 "ptr": 22012,
 "t": "\"Stijl Bar.\"",
-"es": "\"Stijl Bar.\""
+"es": "\"Stijl Bar\"."
 },
 {
 "f": "nom",
@@ -122375,7 +122375,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
 "ptr": 21764,
 "t": "The name of this town is spelled(改行)\"S-o-t-e-n-h-o-r-i.\" True or false?(改行)",
-"es": "El nombre de este pueblo se escribe(改行)\"S-o-t-e-n-h-o-r-i.\" ¿Verdadero o falso?(改行)"
+"es": "El nombre de este pueblo se escribe(改行)\"S-o-t-e-n-h-o-r-i\". ¿Verdadero o falso?(改行)"
 },
 {
 "f": "nom",
@@ -122410,7 +122410,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
 "ptr": 21800,
 "t": "The name of the popular duo appearing on the(改行)Princess League now is \"T-Set.\"(改行)",
-"es": "El nombre del dúo popular que aparece en la(改行)Princess League ahora es \"T-Set.\"(改行)"
+"es": "El nombre del dúo popular que aparece en la(改行)Princess League ahora es \"T-Set\".(改行)"
 },
 {
 "f": "nom",
@@ -122459,7 +122459,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
 "ptr": 21988,
 "t": "The name of the park in Sotenbori is(改行)\"Ashitama Park.\" True or false?(改行)",
-"es": "El nombre del parque en Sotenbori es(改行)\"Ashitama Park.\" ¿Verdadero o falso?(改行)"
+"es": "El nombre del parque en Sotenbori es(改行)\"Ashitama Park\". ¿Verdadero o falso?(改行)"
 },
 {
 "f": "nom",
@@ -122480,7 +122480,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
 "ptr": 22008,
 "t": "The name of the T-Set member with the bobbed(改行)hair is \"Azusa.\" True or false?(改行)",
-"es": "El nombre de la integrante de T-Set con el pelo(改行)corto es \"Azusa.\" ¿Verdadero o falso?(改行)"
+"es": "El nombre de la integrante de T-Set con el pelo(改行)corto es \"Azusa\". ¿Verdadero o falso?(改行)"
 },
 {
 "f": "nom",
@@ -122529,7 +122529,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901d5.msg",
 "ptr": 22028,
 "t": "There are four tecchiri nabe sets at(改行)Zuboraya. The cheapest is the \"Benten.\"(改行)",
-"es": "Hay cuatro sets de tecchiri nabe en(改行)Zuboraya. El más barato es el \"Benten.\"(改行)"
+"es": "Hay cuatro sets de tecchiri nabe en(改行)Zuboraya. El más barato es el \"Benten\".(改行)"
 },
 {
 "f": "nom",
@@ -122550,7 +122550,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901d5.msg",
 "ptr": 22052,
 "t": "There is a hostess club in Sotenbori named(改行)\"Elise.\" True or false?(改行)",
-"es": "Hay un club de anfitrionas en Sotenbori llamado(改行)\"Elise.\" ¿Verdadero o falso?(改行)"
+"es": "Hay un club de anfitrionas en Sotenbori llamado(改行)\"Elise\". ¿Verdadero o falso?(改行)"
 },
 {
 "f": "nom",

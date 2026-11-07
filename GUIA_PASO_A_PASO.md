@@ -1,7 +1,7 @@
 # Guía para traducir Yakuza 5 Remastered
 
 Todo lo que necesitas para corregir nuestra traducción, pasarla a otro idioma o traducir otro Yakuza. Los comandos y las
-cifras de esta guía se probaron el 03-11-2026 con la traducción v1.0.4 (de la v1.0.5 a la v1.0.8 solo cambian textos y 7 imágenes).
+cifras de esta guía se probaron el 03-11-2026 con la traducción v1.0.4 (de la v1.0.5 a la v1.0.9 solo cambian textos y 7 imágenes).
 
 **Probado solo en:** Yakuza 5 Remastered de Steam (appid 1105510, build 6407471), con el juego en inglés, en Windows 11.
 
@@ -83,7 +83,7 @@ Los vídeos no se tocan. Lo dibujado dentro se queda en inglés; sus subtítulos
 
 - **Traducción automática:** 326 lotes en unas 19 horas (20 y 21-10-2026), con 3 traductores gratuitos en paralelo.
 - **Imágenes:** fue lo más largo. Tras la primera versión, una revisión a ojo de 905 imágenes encontró 234 malas.
-- **Versiones:** salieron ocho correcciones (v1.0.1 a v1.0.8) por cosas que se escaparon; la v1.0.5 (589 frases: género, inglés metido, faltas, una tanda corrida una fila) está en programas/revision_v105/LEEME.md y la v1.0.6 (1.153 frases revisadas por escenas: tú/usted, sentido, nombres iguales en menú y diálogos, signos) en programas/revision_v106/LEEME.md; la v1.0.7 (2.010 textos: groserías suavizadas, renglones partidos por sentido, signos, finales de correo que quedaban en inglés) en programas/revision_v107/LEEME.md; la v1.0.8 (velocidad de lectura de subtítulos y un término, una traducción) en programas/revision_v108/LEEME.md. La sección 8 explica cada una.
+- **Versiones:** salieron nueve correcciones (v1.0.1 a v1.0.9) por cosas que se escaparon; la v1.0.5 (589 frases: género, inglés metido, faltas, una tanda corrida una fila) está en programas/revision_v105/LEEME.md y la v1.0.6 (1.153 frases revisadas por escenas: tú/usted, sentido, nombres iguales en menú y diálogos, signos) en programas/revision_v106/LEEME.md; la v1.0.7 (2.010 textos: groserías suavizadas, renglones partidos por sentido, signos, finales de correo que quedaban en inglés) en programas/revision_v107/LEEME.md; la v1.0.8 (velocidad de lectura de subtítulos y un término, una traducción) en programas/revision_v108/LEEME.md; la v1.0.9 (punto fuera de las comillas) en programas/revision_v109/LEEME.md. La sección 8 explica cada una.
 
 ## 3. Preparar todo
 
@@ -105,7 +105,7 @@ Los vídeos no se tocan. Lo dibujado dentro se queda en inglés; sus subtítulos
 3. Descomprímelo **dentro** de la carpeta de la traducción. Debe quedar así:
 
    ```text
-   Yakuza 5 - Traduccion al espanol v1.0.8\
+   Yakuza 5 - Traduccion al espanol v1.0.9\
        archivos\                        lo que se instala en el juego
        INSTALAR o QUITAR.bat
        Yakuza-5-Herramientas-de-traduccion-main\
