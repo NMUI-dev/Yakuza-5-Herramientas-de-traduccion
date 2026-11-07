@@ -5107,7 +5107,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00091e9c.msg",
 "ptr": 7388,
 "t": "Scared Shitless Man",
-"es": "Hombre muerto de miedo"
+"es": "Hombre cagado de miedo"
 },
 {
 "f": "nom",
@@ -68534,7 +68534,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid0134002d.msg",
 "ptr": 217132,
 "t": "□What a dick move.",
-"es": "□Qué canallada."
+"es": "□Qué cabronada."
 },
 {
 "f": "nom",
@@ -68562,7 +68562,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid0134002d.msg",
 "ptr": 217172,
 "t": "○What a dick move.",
-"es": "○Qué canallada."
+"es": "○Qué cabronada."
 },
 {
 "f": "nom",
@@ -69983,7 +69983,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid0134002f.msg",
 "ptr": 38828,
 "t": "○Really!?",
-"es": "○¿De veras!?"
+"es": "○¡¿De veras?!"
 },
 {
 "f": "nom",
@@ -83104,7 +83104,7 @@
 "f": "sub",
 "a": "A1010.csv",
 "t": "I hope that shows you how seriously\nme and my clan are taking this alliance.",
-"es": "Espero que eso te muestre lo en serio que\nmi clan y yo tomamos esta alianza."
+"es": "Espero que eso te muestre lo en serio\nque mi clan y yo tomamos esta alianza."
 },
 {
 "f": "sub",
@@ -83242,7 +83242,7 @@
 "f": "sub",
 "a": "A1040.csv",
 "t": "I get it. I need to learn how to\nfind my own way forward.",
-"es": "Entiendo. Necesito aprender a\nencontrar mi propio camino."
+"es": "Entiendo. Necesito aprender\na encontrar mi propio camino."
 },
 {
 "f": "sub",
@@ -83320,7 +83320,7 @@
 "f": "sub",
 "a": "A1040.csv",
 "t": "Y'ask me, it comes down to the parents. Dig a bit and\nyou'll find they're all chasin' some long lost dream.",
-"es": "Pregúntame a mí, todo se reduce a los padres. Escarba un poco y\nencontrarás que todos persiguen algún sueño perdido."
+"es": "Pregúntame a mí, todo se reduce a los padres. Escarba un poco\ny encontrarás que todos persiguen algún sueño perdido."
 },
 {
 "f": "sub",
@@ -83398,7 +83398,7 @@
 "f": "sub",
 "a": "A1050.csv",
 "t": "Y'ask me, it comes down to the parents. Dig a bit and\nyou'll find they're all chasin' some long lost dream.",
-"es": "Pregúntame a mí, todo se reduce a los padres. Escarba un poco y\nencontrarás que todos persiguen algún sueño perdido."
+"es": "Pregúntame a mí, todo se reduce a los padres. Escarba un poco\ny encontrarás que todos persiguen algún sueño perdido."
 },
 {
 "f": "sub",
@@ -83452,7 +83452,7 @@
 "f": "sub",
 "a": "A1070.csv",
 "t": "Don't gimme that lip. I get folks\r\nlinin' up for me every day of the week!",
-"es": "No me respondas así. Tengo gente\r\nhaciendo fila por mí todos los días de la semana!"
+"es": "No me respondas así. ¡Tengo gente\nhaciendo fila por mí todos los días de la semana!"
 },
 {
 "f": "sub",
@@ -83476,7 +83476,7 @@
 "f": "sub",
 "a": "A1070.csv",
 "t": "Ugh, who do those Tojo pricks \r\nthink they are!? Makes me wanna hurl!",
-"es": "Ugh, ¿quién se creen que son\r\nesos cabrones del Tojo!? ¡Dan ganas de vomitar!"
+"es": "Ugh, ¡¿quién se creen que son\nesos cabrones del Tojo?! ¡Dan ganas de vomitar!"
 },
 {
 "f": "sub",
@@ -83536,7 +83536,7 @@
 "f": "sub",
 "a": "A1075.csv",
 "t": "Y'wanna deal with the Tojo? I say we knock 'em\r\nclean on their asses n' right outta Fukuoka!",
-"es": "¿Quieres lidiar con el Tojo? Digo que los sacudimos\r\ny los echamos de Fukuoka de una patada."
+"es": "¿Quieres lidiar con el Tojo? Digo que los sacudimos\n¡y los echamos de Fukuoka de una patada!"
 },
 {
 "f": "sub",
@@ -83548,7 +83548,7 @@
 "f": "sub",
 "a": "A1075.csv",
 "t": "We sign up for that shit, those Tojo fucks'll\r\nstill treat us like somethin' they stepped in!",
-"es": "Si nos metemos en esa mierda, esos cabrones\r\ndel Tojo seguirán tratándonos como basura."
+"es": "Si nos metemos en esa mierda, ¡esos cabrones\ndel Tojo seguirán tratándonos como basura!"
 },
 {
 "f": "sub",
@@ -83584,7 +83584,7 @@
 "f": "sub",
 "a": "A1075.csv",
 "t": "Drunk fool. Y'think you can just\r\nrun your mouth at us like that!?",
-"es": "Borracho idiota. ¿Crees que puedes\r\nhablarnos así como si nada!?"
+"es": "Borracho idiota. ¡¿Crees que puedes\nhablarnos así como si nada?!"
 },
 {
 "f": "sub",
@@ -83596,7 +83596,7 @@
 "f": "sub",
 "a": "A1075.csv",
 "t": "The hell're ya mumblin' about, man?\r\nY'picked the wrong day to mess with us!",
-"es": "¿Qué carajos murmuras, tío?\r\n¡Elegiste el día equivocado para meterte con nosotros!"
+"es": "¿Qué carajos murmuras, hombre?\n¡Elegiste el día equivocado para meterte con nosotros!"
 },
 {
 "f": "sub",
@@ -83800,7 +83800,7 @@
 "f": "sub",
 "a": "A1130.csv",
 "t": "You'd hang the chairman out\nto dry like he was nothing to you!?",
-"es": "¿Dejarías al presidente\ntirado como si no importara!?"
+"es": "¡¿Dejarías al presidente\ntirado como si no importara?!"
 },
 {
 "f": "sub",
@@ -83986,7 +83986,7 @@
 "f": "sub",
 "a": "A1150.csv",
 "t": "But they're too young to be\nthrowing their lives away.",
-"es": "Pero son demasiado jóvenes para\ntirar su vida a la basura."
+"es": "Pero son demasiado jóvenes\npara tirar su vida a la basura."
 },
 {
 "f": "sub",
@@ -84190,7 +84190,7 @@
 "f": "sub",
 "a": "A1225.csv",
 "t": "You ran into two Tojo goons who\nwere supposed to be guardin' Dojima, yeah?",
-"es": "Te encontraste con dos matones del Tojo que\ndebían estar cuidando a Dojima, ¿no?"
+"es": "Te encontraste con dos matones del Tojo\nque debían estar cuidando a Dojima, ¿no?"
 },
 {
 "f": "sub",
@@ -84202,7 +84202,7 @@
 "f": "sub",
 "a": "A1225.csv",
 "t": "If the Watase Family <Italic>did</Italic> kidnap Daigo Dojima,\nsure as shit those two'll jump into action.",
-"es": "Si la Familia Watase <Italic>secuestró</Italic> a Daigo Dojima,\nseguro que esos dos saltan a la acción."
+"es": "Si la Familia Watase <Italic>secuestró</Italic> a Daigo Dojima,\nseguro que esos dos saltan a la acción, carajo."
 },
 {
 "f": "sub",
@@ -84238,7 +84238,7 @@
 "f": "sub",
 "a": "A1225.csv",
 "t": "I couldn't even tell you all the\nshit that would set in motion.",
-"es": "Ni siquiera podría contarte toda la\nmierda que eso desataría."
+"es": "Ni siquiera podría contarte toda\nla mierda que eso desataría."
 },
 {
 "f": "sub",
@@ -84562,7 +84562,7 @@
 "f": "sub",
 "a": "A1250.csv",
 "t": "What good's a war\r\nif the enemy's already dead!?",
-"es": "¿De qué sirve una guerra\r\nsi el enemigo ya está muerto!?"
+"es": "¡¿De qué sirve una guerra\nsi el enemigo ya está muerto?!"
 },
 {
 "f": "sub",
@@ -84604,7 +84604,7 @@
 "f": "sub",
 "a": "A1250.csv",
 "t": "I can see in your eyes how\nbored ya are out here!",
-"es": "Se te ve en los ojos lo\naburrido que estás por aquí!"
+"es": "¡Se te ve en los ojos lo\naburrido que estás por aquí!"
 },
 {
 "f": "sub",
@@ -84874,7 +84874,7 @@
 "f": "sub",
 "a": "A1315.csv",
 "t": "And by ceding our turf, the Tojo Clan and the\nOmi Alliance would no longer be gunning for us.",
-"es": "Y cediendo nuestro territorio, el Clan Tojo y la\nAlianza Omi ya no vendrían por nosotros."
+"es": "Y cediendo nuestro territorio, el Clan Tojo\ny la Alianza Omi ya no vendrían por nosotros."
 },
 {
 "f": "sub",
@@ -85066,7 +85066,7 @@
 "f": "sub",
 "a": "A1335.csv",
 "t": "If it's revenge you want,\r\ncome and get it.",
-"es": "Si lo que quieres es venganza,\r\nven a por ella."
+"es": "Si lo que quieres es venganza,\nven por ella."
 },
 {
 "f": "sub",
@@ -85120,7 +85120,7 @@
 "f": "sub",
 "a": "A1335.csv",
 "t": "Keep stickin' yer nose where it\ndon't belong, and I'll chop it off!",
-"es": "Sigue metiendo la nariz donde no te llaman\ny te la cortaré."
+"es": "¡Sigue metiendo la nariz donde no te llaman\ny te la cortaré!"
 },
 {
 "f": "sub",
@@ -85216,7 +85216,7 @@
 "f": "sub",
 "a": "A1350.csv",
 "t": "Not showing would play\r\nright into their hand!",
-"es": "No presentarse jugaría\r\ndirectamente a su favor."
+"es": "¡No presentarse jugaría\ndirectamente a su favor!"
 },
 {
 "f": "sub",
@@ -85324,7 +85324,7 @@
 "f": "sub",
 "a": "A1376.csv",
 "t": "Don't be scared because he's\nthe fourth chairman! Get him!",
-"es": "¡No tengan miedo porque es el\ncuarto presidente! ¡A por él!"
+"es": "¡No tengan miedo porque es el\ncuarto presidente! ¡Vayan por él!"
 },
 {
 "f": "sub",
@@ -85336,7 +85336,7 @@
 "f": "sub",
 "a": "A1380.csv",
 "t": "You're the one who said you want to\r\ntake Kiryu out! Right, brother!?",
-"es": "¡Tú dijiste que querías\r\neliminar a Kiryu! ¿Verdad, hermano!?"
+"es": "¡Tú dijiste que querías\neliminar a Kiryu! ¡¿Verdad, hermano?!"
 },
 {
 "f": "sub",
@@ -85360,7 +85360,7 @@
 "f": "sub",
 "a": "A1380.csv",
 "t": "You wanna helm the Tojo Clan!?\nThen you're gonna have to grow a pair!",
-"es": "¿Quieres dirigir el Clan Tojo!?\n¡Entonces tendrás que ponerte las pilas!"
+"es": "¡¿Quieres dirigir el Clan Tojo?!\n¡Entonces más te vale tener huevos!"
 },
 {
 "f": "sub",
@@ -85372,7 +85372,7 @@
 "f": "sub",
 "a": "A1380.csv",
 "t": "Who told ya that!?\r\nWho's givin' ya orders!?",
-"es": "¿Quién te dijo eso!?\r\n¿Quién te da órdenes!?"
+"es": "¡¿Quién te dijo eso?!\n¡¿Quién te da órdenes?!"
 },
 {
 "f": "sub",
@@ -85504,7 +85504,7 @@
 "f": "sub",
 "a": "A1395.csv",
 "t": "Before you go. They found a body on\nMount Inuboe this morning.",
-"es": "Antes de que te vayas. Hallaron un cuerpo en\nel Monte Inuboe esta mañana."
+"es": "Antes de que te vayas. Hallaron un cuerpo\nen el Monte Inuboe esta mañana."
 },
 {
 "f": "sub",
@@ -85600,7 +85600,7 @@
 "f": "sub",
 "a": "B2010.csv",
 "t": "Azabu, Roppongi...\r\nHell, probably down the block!",
-"es": "Azabu, Roppongi...\r\nCarajo, seguro que hay uno a la vuelta de la esquina."
+"es": "Azabu, Roppongi...\n¡Carajo, seguro que hay uno a la vuelta de la esquina!"
 },
 {
 "f": "sub",
@@ -85654,7 +85654,7 @@
 "f": "sub",
 "a": "B2010.csv",
 "t": "Exactly. Few things worse than\nhalf-cooked tripe.",
-"es": "Exacto. Pocas cosas peores que\nel mondongo a medio cocer."
+"es": "Exacto. Pocas cosas peores\nque el mondongo a medio cocer."
 },
 {
 "f": "sub",
@@ -85678,7 +85678,7 @@
 "f": "sub",
 "a": "B2010.csv",
 "t": "So what, that's why you're\ngoin' back behind bars?",
-"es": "¿Y qué? ¿Por eso vas a\nvolver entre rejas?"
+"es": "¿Y qué? ¿Por eso vas\na volver entre rejas?"
 },
 {
 "f": "sub",
@@ -85738,7 +85738,7 @@
 "f": "sub",
 "a": "B2010.csv",
 "t": "The fuck, ya gimme the\nbig sermon then pull that shit?",
-"es": "¿Qué cojones? ¿Me sueltas el sermón\ny luego haces esa mierda?"
+"es": "¿Qué carajo? ¿Me sueltas el sermón\ny luego haces esa mierda?"
 },
 {
 "f": "sub",
@@ -85786,7 +85786,7 @@
 "f": "sub",
 "a": "B2025.csv",
 "t": "Then hold that eye open...\r\nand watch me!",
-"es": "Entonces mantén ese ojo abierto...\r\ny mírame bien."
+"es": "Entonces mantén ese ojo abierto...\n¡y mírame bien!"
 },
 {
 "f": "sub",
@@ -85822,7 +85822,7 @@
 "f": "sub",
 "a": "B2030.csv",
 "t": "Gotta have the stones\r\nto face reality.",
-"es": "Hay que tener los cojones\r\npara enfrentarse a la realidad."
+"es": "Hay que tener los huevos\npara enfrentarse a la realidad."
 },
 {
 "f": "sub",
@@ -85840,7 +85840,7 @@
 "f": "sub",
 "a": "B2030.csv",
 "t": "Ya let that slip, someone else\r\nis gonna come gunnin' for your spot.",
-"es": "Si te descuidas, otro vendrá\r\na por tu puesto."
+"es": "Si te descuidas, otro vendrá\npor tu puesto."
 },
 {
 "f": "sub",
@@ -86002,7 +86002,7 @@
 "f": "sub",
 "a": "B2065.csv",
 "t": "Dammit! We could've kept him from Kugihara\r\nno problem if he wasn't so closed off!",
-"es": "¡Maldición! Podríamos haberlo mantenido\r\na raya de Kugihara si no fuera tan cerrado!"
+"es": "¡Maldición! ¡Podríamos haberlo mantenido\na raya de Kugihara si no fuera tan cerrado!"
 },
 {
 "f": "sub",
@@ -86044,7 +86044,7 @@
 "f": "sub",
 "a": "B2065.csv",
 "t": "Deputy Warden, sir!\r\nWas this really necessary!?",
-"es": "¡Subdirector!\r\n¿Era realmente necesario!?"
+"es": "¡Subdirector!\n¡¿Era realmente necesario?!"
 },
 {
 "f": "sub",
@@ -86080,7 +86080,7 @@
 "f": "sub",
 "a": "B2080.csv",
 "t": "I envy you, man. You gotta be pinching\r\nyourself at the thought of busting out of here.",
-"es": "Te envidio, tío. Debes estar pellizcándote\r\nal pensar en salir de aquí."
+"es": "Te envidio, hermano. Debes estar pellizcándote\nal pensar en salir de aquí."
 },
 {
 "f": "sub",
@@ -86104,7 +86104,7 @@
 "f": "sub",
 "a": "B2100.csv",
 "t": "Out of the way!\nWhat are you all doing back here!?",
-"es": "¡Fuera de mi camino!\n¿Qué hacen todos aquí atrás!?"
+"es": "¡Fuera de mi camino!\n¡¿Qué hacen todos aquí atrás?!"
 },
 {
 "f": "sub",
@@ -86116,7 +86116,7 @@
 "f": "sub",
 "a": "B2100.csv",
 "t": "One minute, everything was fine...\r\nThe next, that fucker jumped me!",
-"es": "Un minuto todo bien...\r\nAl siguiente, ese hijo de puta me saltó encima!"
+"es": "Un minuto todo bien...\n¡Al siguiente, ese hijo de puta me saltó encima!"
 },
 {
 "f": "sub",
@@ -86158,7 +86158,7 @@
 "f": "sub",
 "a": "B2115.csv",
 "t": "But we touch one hair on that punk's\r\nhead and you lose your shit?",
-"es": "¿Pero tocamos un pelo de ese punk\r\ny pierdes la cabeza?"
+"es": "¿Pero tocamos un pelo de ese punk\ny pierdes la maldita cabeza?"
 },
 {
 "f": "sub",
@@ -86236,7 +86236,7 @@
 "f": "sub",
 "a": "B2120.csv",
 "t": "Why trap me here?\nWhaddya got to gain from that!?",
-"es": "¿Por qué atraparme aquí?\n¿Qué ganas con eso!?"
+"es": "¿Por qué atraparme aquí?\n¡¿Qué ganas con eso?!"
 },
 {
 "f": "sub",
@@ -86530,7 +86530,7 @@
 "f": "sub",
 "a": "B2200.csv",
 "t": "Who knew they gave our guards\nsuch antique hunks of scrap?",
-"es": "Quién diría que a nuestros guardias\nles dieron semejante chatarra antigua."
+"es": "¿Quién diría que a nuestros guardias\nles dieron semejante chatarra antigua?"
 },
 {
 "f": "sub",
@@ -86710,7 +86710,7 @@
 "f": "sub",
 "a": "B2340.csv",
 "t": "Baba-chan...\r\nThe hell's goin' on!?",
-"es": "Baba-chan...\r\n¿Qué demonios pasa!?"
+"es": "Baba-chan...\n¡¿Qué demonios pasa?!"
 },
 {
 "f": "sub",
@@ -87202,7 +87202,7 @@
 "f": "sub",
 "a": "B2380.csv",
 "t": "And you were next in line to be captain.\r\nShit'll go down if you show.",
-"es": "Y tú eras el siguiente en ser capitán.\r\nSe armará la gorda si te presentas."
+"es": "Y tú eras el siguiente en ser capitán.\nSe va a armar una mierda si te presentas."
 },
 {
 "f": "sub",
@@ -87400,7 +87400,7 @@
 "f": "sub",
 "a": "C3030.csv",
 "t": "Wrong, wrong, wrong!\r\nHow many lectures is this gonna take!?",
-"es": "¡Mal, mal, mal!\r\n¿Cuántas charlas más harán falta!?"
+"es": "¡Mal, mal, mal!\n¡¿Cuántas charlas más harán falta?!"
 },
 {
 "f": "sub",
@@ -87580,13 +87580,13 @@
 "f": "sub",
 "a": "C3080.csv",
 "t": "C'mon, Haruka-chan! Hurry up\r\nand apologize to the man!",
-"es": "¡Vamos, Haruka-chan! Date prisa\r\ny pídele perdón al señor!"
+"es": "¡Vamos, Haruka-chan! ¡Date prisa\ny pídele perdón al señor!"
 },
 {
 "f": "sub",
 "a": "C3090.csv",
 "t": "Don't play dumb with me. I know\r\nyou tripped Haruka on purpose!",
-"es": "No te hagas la tonta conmigo. Sé\r\nque hiciste tropezar a Haruka a propósito!"
+"es": "No te hagas la tonta conmigo. ¡Sé\nque hiciste tropezar a Haruka a propósito!"
 },
 {
 "f": "sub",
@@ -87604,7 +87604,7 @@
 "f": "sub",
 "a": "C3110.csv",
 "t": "As if. The damn sun'll go cold before ya\r\nfigure out how to teach that brat on your own!",
-"es": "Como si. El maldito sol se enfriará antes de que\r\naverigües cómo enseñar a ese mocoso por tu cuenta!"
+"es": "Ni lo sueñes. ¡El maldito sol se enfriará antes de que\naverigües cómo enseñar a ese mocoso por tu cuenta!"
 },
 {
 "f": "sub",
@@ -87970,7 +87970,7 @@
 "f": "sub",
 "a": "C3185.csv",
 "t": "Of course, I kept it a secret from\r\nmy agency, and the world.",
-"es": "Por supuesto, lo mantuve en secreto de\r\nmi agencia y del mundo."
+"es": "Por supuesto, lo mantuve en secreto\nde mi agencia y del mundo."
 },
 {
 "f": "sub",
@@ -88096,7 +88096,7 @@
 "f": "sub",
 "a": "C3186.csv",
 "t": "He chose to walk a path I\r\ncould never follow him down.",
-"es": "Él eligió seguir un camino por el que\r\nnunca podría seguirlo."
+"es": "Él eligió seguir un camino\npor el que nunca podría seguirlo."
 },
 {
 "f": "sub",
@@ -88144,19 +88144,19 @@
 "f": "sub",
 "a": "C3186.csv",
 "t": "In other words, it's your key to\r\nmeeting up with him.",
-"es": "En otras palabras, es tu llave para\r\nencontrarte con él."
+"es": "En otras palabras, es tu llave\npara encontrarte con él."
 },
 {
 "f": "sub",
 "a": "C3225.csv",
 "t": "Man, I hadn't even torn the seal\r\noff those bad boys yet!",
-"es": "Carajo, ni siquiera había roto el sello\r\nde esos chicos malos aún!"
+"es": "¡Carajo, ni siquiera había roto el sello\nde esos chicos malos aún!"
 },
 {
 "f": "sub",
 "a": "C3225.csv",
 "t": "Keep jerkin' us around, n' that won't\r\nbe the only thing we're tearin' today!",
-"es": "Sigan tomándonos el pelo, y eso no\r\nserá lo único que rompamos hoy."
+"es": "¡Sigan tomándonos el pelo, y eso\nno será lo único que rompamos hoy!"
 },
 {
 "f": "sub",
@@ -88180,7 +88180,7 @@
 "f": "sub",
 "a": "C3240.csv",
 "t": "I only just heard from Hana that\r\nyou were down here in Osaka.",
-"es": "Acabo de enterarme por Hana de que\r\nestabas por aquí en Osaka."
+"es": "Acabo de enterarme por Hana\nde que estabas por aquí en Osaka."
 },
 {
 "f": "sub",
@@ -88798,7 +88798,7 @@
 "f": "sub",
 "a": "C3430.csv",
 "t": "Wait, but... they'll just\r\nkeep gunning for you if you do.",
-"es": "Espera, pero...\r\nsolo seguirán yendo a por ti si haces eso."
+"es": "Espera, pero...\nsolo seguirán yendo por ti si haces eso."
 },
 {
 "f": "sub",
@@ -88816,19 +88816,19 @@
 "f": "sub",
 "a": "C3445.csv",
 "t": "You ain't wastin' any more of my time,\nand I sure as shit ain't leavin' here with a fake.",
-"es": "No me vas a hacer perder más el tiempo,\nni de coña me voy de aquí con un falso."
+"es": "No me vas a hacer perder más el tiempo,\nde ninguna puta manera me voy de aquí con una falsa."
 },
 {
 "f": "sub",
 "a": "C3445.csv",
 "t": "Fine, then. If you ain't givin' it up,\nI'll just have to take you with me.",
-"es": "Bueno, entonces. Si no la sueltas,\nme la tendré que llevar a ti conmigo."
+"es": "Bueno, entonces. Si no la sueltas,\ntendré que llevarte conmigo."
 },
 {
 "f": "sub",
 "a": "C3445.csv",
 "t": "What's the big deal? Ain't like that\ndebut of yours is happenin' either way.",
-"es": "¿Cuál es el problema? No es como si\nesa debut tuyo vaya a pasar de todos modos."
+"es": "¿Cuál es el problema? No es como si\nese debut tuyo vaya a pasar de todos modos."
 },
 {
 "f": "sub",
@@ -89032,7 +89032,7 @@
 "f": "sub",
 "a": "C3500.csv",
 "t": "The finals are comprised of\na series of rival battles!",
-"es": "La final consta de\nuna serie de batallas rivales."
+"es": "¡La final consta de\nuna serie de batallas rivales!"
 },
 {
 "f": "sub",
@@ -89056,7 +89056,7 @@
 "f": "sub",
 "a": "C3500.csv",
 "t": "The opposing sides are each\nprovided with their very own stage!",
-"es": "A cada bando\nse le proporciona su propio escenario."
+"es": "¡A cada bando\nse le proporciona su propio escenario!"
 },
 {
 "f": "sub",
@@ -89068,7 +89068,7 @@
 "f": "sub",
 "a": "C3500.csv",
 "t": "And if you ask me, that's what\nthe Princess League is all about!",
-"es": "Y si me preguntan, ¡eso es lo que\nes la Princess League!"
+"es": "Y si me preguntan, ¡eso es\nlo que es la Princess League!"
 },
 {
 "f": "sub",
@@ -89080,7 +89080,7 @@
 "f": "sub",
 "a": "C3500.csv",
 "t": "Audience members will flock to the stage they\nbelieve has the most exhilarating performance!",
-"es": "Los miembros del público acudirán al escenario que\ncrean que tiene la actuación más electrizante."
+"es": "¡Los miembros del público acudirán al escenario\nque crean que tiene la actuación más electrizante!"
 },
 {
 "f": "sub",
@@ -89092,7 +89092,7 @@
 "f": "sub",
 "a": "C3500.csv",
 "t": "Here, the two sides will compete to see who\nhas the best combination of charm and vocal skills!",
-"es": "Aquí, los dos bandos competirán para ver quién\ntiene la mejor combinación de encanto y habilidad vocal."
+"es": "¡Aquí, los dos bandos competirán para ver quién\ntiene la mejor combinación de encanto y habilidad vocal!"
 },
 {
 "f": "sub",
@@ -89146,7 +89146,7 @@
 "f": "sub",
 "a": "C3500.csv",
 "t": "With an impressive string of wins\nunder their belt, it's super idol duo...",
-"es": "Con una impresionante racha de victorias\na sus espaldas, ¡el súper dúo idol..."
+"es": "Con una impresionante racha de victorias\na sus espaldas, el súper dúo idol..."
 },
 {
 "f": "sub",
@@ -89158,13 +89158,13 @@
 "f": "sub",
 "a": "C3500.csv",
 "t": "Can this surprising diamond in the rough realize\nher dreams here in the Princess League!?",
-"es": "¿Podrá este sorprendente diamante en bruto\ncumplir sus sueños aquí en la Princess League!?"
+"es": "¡¿Podrá este sorprendente diamante en bruto\ncumplir sus sueños aquí en la Princess League?!"
 },
 {
 "f": "sub",
 "a": "C3500.csv",
 "t": "Which of them will attract the most audience\nmembers with their dazzling performance!?",
-"es": "¿Cuál de ellas atraerá a más miembros del público\ncon su deslumbrante actuación!?"
+"es": "¡¿Cuál de ellas atraerá a más miembros del público\ncon su deslumbrante actuación?!"
 },
 {
 "f": "sub",
@@ -89200,7 +89200,7 @@
 "f": "sub",
 "a": "C3502.csv",
 "t": "Let me introduce the two teams who gave\nsuch electrifying performances in round one!",
-"es": "Permítanme presentar a los dos equipos que nos\ndieron actuaciones electrizantes en la ronda uno."
+"es": "¡Permítanme presentar a los dos equipos que nos\ndieron actuaciones electrizantes en la ronda uno!"
 },
 {
 "f": "sub",
@@ -89218,7 +89218,7 @@
 "f": "sub",
 "a": "C3502.csv",
 "t": "Ready to soar into your heart,\nit's the impeccable duo...",
-"es": "¡Lista para volar directo a su corazón,\nel impecable dúo..."
+"es": "Lista para volar directo a su corazón,\nel impecable dúo..."
 },
 {
 "f": "sub",
@@ -89254,13 +89254,13 @@
 "f": "sub",
 "a": "C3504.csv",
 "t": "I don't need to tell you how important the points\nearned tonight will be in determining our winner!",
-"es": "No hace falta que les diga lo importantes que serán\nlos puntos ganados esta noche para decidir a la ganadora."
+"es": "¡No hace falta que les diga lo importantes que serán\nlos puntos ganados esta noche para decidir a la ganadora!"
 },
 {
 "f": "sub",
 "a": "C3504.csv",
 "t": "When all is said and done, only one side will wear\nthe Princess League crown! Who will it be!?",
-"es": "Cuando todo se diga y haga, solo un bando\nllevará la corona de la Princess League. ¿Quién será!?"
+"es": "¡Cuando todo se diga y haga, solo un bando\nllevará la corona de la Princess League! ¡¿Quién será?!"
 },
 {
 "f": "sub",
@@ -89308,7 +89308,7 @@
 "f": "sub",
 "a": "C3504.csv",
 "t": "Which of them will attract the most audience \nmembers with their dazzling performance!?",
-"es": "¿Cuál de ellas atraerá a más miembros del público\ncon su deslumbrante actuación!?"
+"es": "¡¿Cuál de ellas atraerá a más miembros del público\ncon su deslumbrante actuación?!"
 },
 {
 "f": "sub",
@@ -89362,7 +89362,7 @@
 "f": "sub",
 "a": "C3510.csv",
 "t": "Once the songs are finished, the victor will be\nthe team with the most audience members!",
-"es": "Una vez terminen las canciones, la vencedora será\nel equipo con más miembros del público."
+"es": "¡Una vez terminen las canciones, la vencedora será\nel equipo con más miembros del público!"
 },
 {
 "f": "sub",
@@ -89380,13 +89380,13 @@
 "f": "sub",
 "a": "C3510.csv",
 "t": "Will receive a bonus to be applied in the third\nround, giving that team a distinct advantage!",
-"es": "Recibirá un bono que se aplicará en la tercera ronda,\ndando a ese equipo una clara ventaja."
+"es": "¡Recibirá un bono que se aplicará en la tercera ronda,\ndando a ese equipo una clara ventaja!"
 },
 {
 "f": "sub",
 "a": "C3510.csv",
 "t": "So you can see... Rounds 1 and 2 will\nhave a huge impact on the outcome!",
-"es": "Así que ven... Las rondas 1 y 2\ntendrán un gran impacto en el resultado."
+"es": "¡Como pueden ver... las rondas 1 y 2\ntendrán un gran impacto en el resultado!"
 },
 {
 "f": "sub",
@@ -89416,7 +89416,7 @@
 "f": "sub",
 "a": "C3515.csv",
 "t": "With an impressive string of wins\nunder their belt, it's super idol duo...",
-"es": "Con una impresionante racha de victorias\na sus espaldas, ¡el súper dúo idol..."
+"es": "Con una impresionante racha de victorias\na sus espaldas, el súper dúo idol..."
 },
 {
 "f": "sub",
@@ -89428,13 +89428,13 @@
 "f": "sub",
 "a": "C3515.csv",
 "t": "Can this surprising diamond in the rough realize\nher dreams here in the Princess League!?",
-"es": "¿Podrá este sorprendente diamante en bruto\ncumplir sus sueños aquí en la Princess League!?"
+"es": "¡¿Podrá este sorprendente diamante en bruto\ncumplir sus sueños aquí en la Princess League?!"
 },
 {
 "f": "sub",
 "a": "C3515.csv",
 "t": "Which of them will attract the most audience\nmembers with their dazzling performance!?",
-"es": "¿Cuál de ellas atraerá a más miembros del público\ncon su deslumbrante actuación!?"
+"es": "¡¿Cuál de ellas atraerá a más miembros del público\ncon su deslumbrante actuación?!"
 },
 {
 "f": "sub",
@@ -89452,13 +89452,13 @@
 "f": "sub",
 "a": "C3520.csv",
 "t": "So it's time to see who got the most\nlove from our live audience members!",
-"es": "Así que es hora de ver quién recibió\nmás amor de nuestra audiencia en vivo."
+"es": "¡Así que es hora de ver quién recibió\nmás amor de nuestra audiencia en vivo!"
 },
 {
 "f": "sub",
 "a": "C3523.csv",
 "t": "Those were two stellar\nperformances we won't forget!",
-"es": "Esas fueron dos actuaciones estelares\nque no olvidaremos."
+"es": "¡Esas fueron dos actuaciones estelares\nque no olvidaremos!"
 },
 {
 "f": "sub",
@@ -89470,7 +89470,7 @@
 "f": "sub",
 "a": "C3523.csv",
 "t": "So it's time to see who got the most\nlove from our live audience members!",
-"es": "Así que es hora de ver quién recibió\nmás amor de nuestra audiencia en vivo."
+"es": "¡Así que es hora de ver quién recibió\nmás amor de nuestra audiencia en vivo!"
 },
 {
 "f": "sub",
@@ -89482,7 +89482,7 @@
 "f": "sub",
 "a": "C3530.csv",
 "t": "Just look at that face! This is a\ngirl who's really given it her all!",
-"es": "Miren esa cara. Esta es\nuna chica que realmente lo dio todo."
+"es": "¡Miren esa cara! ¡Esta es\nuna chica que realmente lo dio todo!"
 },
 {
 "f": "sub",
@@ -89506,13 +89506,13 @@
 "f": "sub",
 "a": "C3530.csv",
 "t": "I'll do my very best to make my\nperformance in round two even better!",
-"es": "Haré mi mejor esfuerzo para que\nmi actuación en la ronda dos sea aún mejor."
+"es": "¡Haré mi mejor esfuerzo para que\nmi actuación en la ronda dos sea aún mejor!"
 },
 {
 "f": "sub",
 "a": "C3530.csv",
 "t": "She rose above the pressure to conquer round one,\nand I can't wait to see what she does next!",
-"es": "Superó la presión para conquistar la ronda uno,\ny no puedo esperar a ver qué hace a continuación."
+"es": "Superó la presión para conquistar la ronda uno,\n¡y no puedo esperar a ver qué hace a continuación!"
 },
 {
 "f": "sub",
@@ -89560,7 +89560,7 @@
 "f": "sub",
 "a": "C3550.csv",
 "t": "Let me introduce the two teams who gave\nsuch electrifying performances in round one!",
-"es": "Permítanme presentar a los dos equipos que nos\ndieron actuaciones electrizantes en la ronda uno."
+"es": "¡Permítanme presentar a los dos equipos que nos\ndieron actuaciones electrizantes en la ronda uno!"
 },
 {
 "f": "sub",
@@ -89584,13 +89584,13 @@
 "f": "sub",
 "a": "C3555.csv",
 "t": "Can this surprising diamond in the rough realize\nher dreams here in the Princess League!?",
-"es": "¿Podrá este sorprendente diamante en bruto\ncumplir sus sueños aquí en la Princess League!?"
+"es": "¡¿Podrá este sorprendente diamante en bruto\ncumplir sus sueños aquí en la Princess League?!"
 },
 {
 "f": "sub",
 "a": "C3555.csv",
 "t": "Which of them will attract the most audience\nmembers with their dazzling performance!?",
-"es": "¿Cuál de ellas atraerá a más miembros del público\ncon su deslumbrante actuación!?"
+"es": "¡¿Cuál de ellas atraerá a más miembros del público\ncon su deslumbrante actuación?!"
 },
 {
 "f": "sub",
@@ -89638,7 +89638,7 @@
 "f": "sub",
 "a": "C3565.csv",
 "t": "We couldn't have done it\nwithout everyone's support!",
-"es": "No lo habríamos logrado\nsin el apoyo de todos!"
+"es": "¡No lo habríamos logrado\nsin el apoyo de todos!"
 },
 {
 "f": "sub",
@@ -89662,13 +89662,13 @@
 "f": "sub",
 "a": "C3570.csv",
 "t": "I don't need to tell you how important the points\nearned tonight will be in determining our winner!",
-"es": "No hace falta que les diga lo importantes que serán\nlos puntos ganados esta noche para decidir a la ganadora."
+"es": "¡No hace falta que les diga lo importantes que serán\nlos puntos ganados esta noche para decidir a la ganadora!"
 },
 {
 "f": "sub",
 "a": "C3570.csv",
 "t": "When all is said and done, only one side will wear\nthe Princess League crown! Who will it be!?",
-"es": "Cuando todo se diga y haga, solo un bando\nllevará la corona de la Princess League. ¿Quién será!?"
+"es": "¡Cuando todo se diga y haga, solo un bando\nllevará la corona de la Princess League! ¡¿Quién será?!"
 },
 {
 "f": "sub",
@@ -89698,13 +89698,13 @@
 "f": "sub",
 "a": "C3575.csv",
 "t": "Can this surprising diamond in the rough realize\nher dreams here in the Princess League!?",
-"es": "¿Podrá este sorprendente diamante en bruto\ncumplir sus sueños aquí en la Princess League!?"
+"es": "¡¿Podrá este sorprendente diamante en bruto\ncumplir sus sueños aquí en la Princess League?!"
 },
 {
 "f": "sub",
 "a": "C3575.csv",
 "t": "Which of them will attract the most audience\nmembers with their dazzling performance!?",
-"es": "¿Cuál de ellas atraerá a más miembros del público\ncon su deslumbrante actuación!?"
+"es": "¡¿Cuál de ellas atraerá a más miembros del público\ncon su deslumbrante actuación?!"
 },
 {
 "f": "sub",
@@ -89722,13 +89722,13 @@
 "f": "sub",
 "a": "C3580.csv",
 "t": "The results are coming up, and at long\nlast we'll finally crown our winner!",
-"es": "Vienen los resultados, y por fin\ncoronaremos a nuestra ganadora!"
+"es": "¡Vienen los resultados, y por fin\ncoronaremos a nuestra ganadora!"
 },
 {
 "f": "sub",
 "a": "C3585.csv",
 "t": "Now, before we announce the final results,\nlet's hear from our contestants!",
-"es": "Ahora, antes de anunciar los resultados finales,\nescuchemos a nuestras concursantes!"
+"es": "Ahora, antes de anunciar los resultados finales,\n¡escuchemos a nuestras concursantes!"
 },
 {
 "f": "sub",
@@ -89818,7 +89818,7 @@
 "f": "sub",
 "a": "C3590.csv",
 "t": "Now, before we announce the final results,\nlet's hear from our contestants!",
-"es": "Ahora, antes de anunciar los resultados finales,\nescuchemos a nuestras concursantes!"
+"es": "Ahora, antes de anunciar los resultados finales,\n¡escuchemos a nuestras concursantes!"
 },
 {
 "f": "sub",
@@ -90160,7 +90160,7 @@
 "f": "sub",
 "a": "D4020.csv",
 "t": "Shinada! Did you forget your\r\npromise to pay me back!?",
-"es": "¡Shinada! ¿Olvidaste tu\r\npromesa de pagarme!?"
+"es": "¡Shinada! ¡¿Olvidaste\ntu promesa de pagarme?!"
 },
 {
 "f": "sub",
@@ -90298,7 +90298,7 @@
 "f": "sub",
 "a": "D4020.csv",
 "t": "Here, look at this. I got an interview tonight.\r\nWhy don't I write up a story, get my fee...",
-"es": "Mira, fíjate en esto. Tengo una entrevista esta noche.\r\n¿Por qué no escribo un artículo, cobro mi paga..."
+"es": "Mira, fíjate en esto. Tengo una entrevista esta noche.\nPodría escribir un artículo, cobrar mi paga..."
 },
 {
 "f": "sub",
@@ -90370,7 +90370,7 @@
 "f": "sub",
 "a": "D4080.csv",
 "t": "Dumbass! Do you realize how many\r\ndeadlines you've missed in a row!?",
-"es": "¡Idiota! ¿Te das cuenta de cuántas\r\nfechas límite has fallado seguidas!?"
+"es": "¡Idiota! ¡¿Te das cuenta de cuántas\nfechas límite has fallado seguidas?!"
 },
 {
 "f": "sub",
@@ -90382,7 +90382,7 @@
 "f": "sub",
 "a": "D4080.csv",
 "t": "Find yourself another job\r\nif you're not gonna follow our rules!",
-"es": "Búsquese otro trabajo\r\nsi no va a seguir nuestras reglas!"
+"es": "¡Búsquese otro trabajo\nsi no va a seguir nuestras reglas!"
 },
 {
 "f": "sub",
@@ -90466,7 +90466,7 @@
 "f": "sub",
 "a": "D4110.csv",
 "t": "Hey! Where's my damn spaghetti!?\r\nI'm starvin' here!",
-"es": "¡Oye! ¿Dónde está mi maldita espagueti!?\r\n¡Me muero de hambre aquí!"
+"es": "¡Oye! ¡¿Dónde está mi maldito espagueti?!\n¡Me muero de hambre aquí!"
 },
 {
 "f": "sub",
@@ -90706,7 +90706,7 @@
 "f": "sub",
 "a": "D4210.csv",
 "t": "If I'm gonna start over, I want\r\nto be an elementary school teacher!",
-"es": "Si voy a empezar de nuevo, quiero\r\nser maestra de primaria!"
+"es": "¡Si voy a empezar de nuevo, quiero\nser maestra de primaria!"
 },
 {
 "f": "sub",
@@ -90772,7 +90772,7 @@
 "f": "sub",
 "a": "D4335.csv",
 "t": "You're seriously falling for this shit?\r\nWhat's wrong with you!?",
-"es": "¿En serio te crees esta mierda?\r\n¿Qué te pasa!?"
+"es": "¿En serio te crees esta mierda?\n¡¿Qué te pasa?!"
 },
 {
 "f": "sub",
@@ -90790,13 +90790,13 @@
 "f": "sub",
 "a": "D4335.csv",
 "t": "The guy in the photo told us everything.\r\nYou fixed that game and we damn well know it!",
-"es": "El tipo de la foto nos lo contó todo.\r\nArreglaste ese partido y lo sabemos muy bien!"
+"es": "El tipo de la foto nos lo contó todo.\n¡Arreglaste ese partido y lo sabemos de sobra, carajo!"
 },
 {
 "f": "sub",
 "a": "D4335.csv",
 "t": "You had him steal the catcher's signs,\r\nthen won big off the bet you put down!",
-"es": "Hiciste que robara las señales del receptor,\r\ny ganaste a lo grande con tu apuesta!"
+"es": "Hiciste que robara las señales del receptor,\n¡y ganaste a lo grande con tu apuesta!"
 },
 {
 "f": "sub",
@@ -90940,7 +90940,7 @@
 "f": "sub",
 "a": "D4390.csv",
 "t": "So, what!? Everyone's known\r\nabout me this whole time!?",
-"es": "¿Entonces qué!? ¿Todos sabían\r\nde mí todo este tiempo!?"
+"es": "¡¿Entonces qué?! ¡¿Todos sabían\nde mí todo este tiempo?!"
 },
 {
 "f": "sub",
@@ -91006,7 +91006,7 @@
 "f": "sub",
 "a": "D4395.csv",
 "t": "And who's the bastard making honest\r\npeople like you do these terrible things!?",
-"es": "¿Y quién es el desgraciado que obliga\r\na gente honrada como tú a hacer estas cosas terribles!?"
+"es": "¡¿Y quién es el desgraciado que obliga\na gente honrada como tú a hacer estas cosas terribles?!"
 },
 {
 "f": "sub",
@@ -91228,7 +91228,7 @@
 "f": "sub",
 "a": "D4485.csv",
 "t": "Hey, Shinada.\r\nWhat are you doing!?",
-"es": "Oye, Shinada.\r\n¿Qué haces!?"
+"es": "Oye, Shinada.\n¡¿Qué haces?!"
 },
 {
 "f": "sub",
@@ -91396,7 +91396,7 @@
 "f": "sub",
 "a": "E5080.csv",
 "t": "Otherwise I'll never be able\r\nto get my shit together.",
-"es": "De lo contrario, nunca podré\r\nponer mi vida en orden."
+"es": "De lo contrario, nunca podré\nponer mi puta vida en orden."
 },
 {
 "f": "sub",
@@ -91426,7 +91426,7 @@
 "f": "sub",
 "a": "E5090.csv",
 "t": "Sorry! We got a match on the\nprints to this man here...",
-"es": "¡Lo siento! Tenemos coincidencia en las\nhuellas con este hombre aquí..."
+"es": "¡Lo siento! Tenemos coincidencia\nen las huellas con este hombre aquí..."
 },
 {
 "f": "sub",
@@ -91540,7 +91540,7 @@
 "f": "sub",
 "a": "E5120.csv",
 "t": "Please! I heard you give zero interest\nloans with no payment terms here!",
-"es": "¡Por favor! Oí que dan préstamos\na interés cero y sin plazos aquí!"
+"es": "¡Por favor! ¡Oí que dan préstamos\na interés cero y sin plazos aquí!"
 },
 {
 "f": "sub",
@@ -91672,7 +91672,7 @@
 "f": "sub",
 "a": "E5190.csv",
 "t": "My aim's slippin'. Can't hit\nshit from this distance.",
-"es": "Mi puntería falla. No doy\nni una a esta distancia."
+"es": "Mi puntería falla. No le doy\na una mierda a esta distancia."
 },
 {
 "f": "sub",
@@ -91684,7 +91684,7 @@
 "f": "sub",
 "a": "E5200.csv",
 "t": "Why, Ka-chan!?\nWhy'd ya go and do that!?",
-"es": "¿Por qué, Ka-chan!?\n¿Por qué hiciste eso!?"
+"es": "¡¿Por qué, Ka-chan?!\n¡¿Por qué hiciste eso?!"
 },
 {
 "f": "sub",
@@ -91702,7 +91702,7 @@
 "f": "sub",
 "a": "E5210.csv",
 "t": "What are you thinking!?\nDaigo, don't do it!",
-"es": "¿En qué piensas!?\n¡Daigo, no lo hagas!"
+"es": "¡¿En qué piensas?!\n¡Daigo, no lo hagas!"
 },
 {
 "f": "sub",
@@ -91738,13 +91738,13 @@
 "f": "sub",
 "a": "E5210.csv",
 "t": "Not by a longshot!\nWhere do you think you're going!?",
-"es": "¡Ni de broma!\n¿A dónde crees que vas!?"
+"es": "¡Ni de broma!\n¡¿A dónde crees que vas?!"
 },
 {
 "f": "sub",
 "a": "E5210.csv",
 "t": "When I get over there,\nI'm going to tear you apart!",
-"es": "Cuando llegue allá,\nte voy a hacer pedazos!"
+"es": "¡Cuando llegue allá,\nte voy a hacer pedazos!"
 },
 {
 "f": "sub",
@@ -91780,7 +91780,7 @@
 "f": "sub",
 "a": "E5225.csv",
 "t": "Maybe I can talk someone into\nhelpin' us pull something together!",
-"es": "A lo mejor convenzo a alguien\npara que nos ayude a armar algo!"
+"es": "¡A lo mejor convenzo a alguien\npara que nos ayude a armar algo!"
 },
 {
 "f": "sub",
@@ -91792,7 +91792,7 @@
 "f": "sub",
 "a": "E5228.csv",
 "t": "I actually came to pass on a\nmessage from Kazuma Kiryu-san.",
-"es": "En realidad vine a transmitir un\nmensaje de Kazuma Kiryu-san."
+"es": "En realidad vine a transmitir\nun mensaje de Kazuma Kiryu-san."
 },
 {
 "f": "sub",
@@ -91954,7 +91954,7 @@
 "f": "sub",
 "a": "E5310.csv",
 "t": "Okay, now I'm getting butterflies!\nOh man...",
-"es": "Bueno, ahora me dan mariposas en el estómago!\nAy, caramba..."
+"es": "¡Bueno, ahora me dan mariposas en el estómago!\nAy, caramba..."
 },
 {
 "f": "sub",
@@ -92026,7 +92026,7 @@
 "f": "sub",
 "a": "E5330.csv",
 "t": "Let me handle it. I'll make sure\nHaruka-chan comes to no harm.",
-"es": "Déjame encargarme. Me aseguraré de que\na Haruka-chan no le pase nada."
+"es": "Déjame encargarme. Me aseguraré\nde que a Haruka-chan no le pase nada."
 },
 {
 "f": "sub",
@@ -92086,7 +92086,7 @@
 "f": "sub",
 "a": "E5370.csv",
 "t": "So why would you go and\nleave evidence behind like that?",
-"es": "Entonces, ¿por qué ibas a\ndejar pruebas así?"
+"es": "Entonces, ¿por qué ibas\na dejar pruebas así?"
 },
 {
 "f": "sub",
@@ -92110,7 +92110,7 @@
 "f": "sub",
 "a": "E5370.csv",
 "t": "Exactly! I'm telling you to man up\nand let 'em mark it as an error!",
-"es": "¡Exacto! Te digo que actúes como hombre\ny dejes que lo anoten como error!"
+"es": "¡Exacto! ¡Te digo que actúes como hombre\ny dejes que lo anoten como error!"
 },
 {
 "f": "sub",
@@ -92134,7 +92134,7 @@
 "f": "sub",
 "a": "E5380.csv",
 "t": "What were you thinking, Baba!?\nWhat kinda fool throws his life away!?",
-"es": "¿En qué pensabas, Baba!?\n¿Qué clase de idiota tira su vida!?"
+"es": "¡¿En qué pensabas, Baba?!\n¡¿Qué clase de idiota tira su vida?!"
 },
 {
 "f": "sub",
@@ -92152,7 +92152,7 @@
 "f": "sub",
 "a": "E5380.csv",
 "t": "Saejima-san got in touch with Kosaka-san\nnot longer after shit hit the fan.",
-"es": "Saejima-san contactó a Kosaka-san\npoco después de que se armara el relajo."
+"es": "Saejima-san contactó a Kosaka-san\npoco después de que todo se fuera a la mierda."
 },
 {
 "f": "sub",
@@ -92170,7 +92170,7 @@
 "f": "sub",
 "a": "E5385.csv",
 "t": "What's there to worry about!?\nI paid all the money back, didn't I!?",
-"es": "¿De qué te preocupas!?\n¡Ya devolví todo el dinero, ¿no!?"
+"es": "¡¿De qué te preocupas?!\n¡¿Ya devolví todo el dinero, no?!"
 },
 {
 "f": "sub",
@@ -92200,7 +92200,7 @@
 "f": "sub",
 "a": "E5385.csv",
 "t": "Shinada? Hey!\nCan you hear me, Shinada!?",
-"es": "¿Shinada? ¡Oye!\n¿Me oyes, Shinada!?"
+"es": "¿Shinada? ¡Oye!\n¡¿Me oyes, Shinada?!"
 },
 {
 "f": "sub",
@@ -92272,7 +92272,7 @@
 "f": "sub",
 "a": "E5440.csv",
 "t": "Wasn't long ago that I was playing at chairman's\nbodyguard, but I was just a dumb punk.",
-"es": "Hace poco hacía de guardaespaldas\ndel presidente, pero era solo un pendejo."
+"es": "Hace poco hacía de guardaespaldas\ndel presidente, pero era solo un mocoso estúpido."
 },
 {
 "f": "sub",
@@ -92314,7 +92314,7 @@
 "f": "sub",
 "a": "E5440.csv",
 "t": "That's why we still go around doing\noutdated shit like swearing oaths.",
-"es": "Por eso seguimos haciendo cosas\npasadas de moda como jurar lealtad."
+"es": "Por eso seguimos haciendo\nmierdas anticuadas como jurar lealtad."
 },
 {
 "f": "sub",
@@ -92752,7 +92752,7 @@
 "f": "sub",
 "a": "E5471.csv",
 "t": "What is she doing up there!?\nGet security to shut her down!",
-"es": "¿Qué está haciendo ahí arriba!?\n¡Llamen a seguridad para detenerla!"
+"es": "¡¿Qué está haciendo ahí arriba?!\n¡Llamen a seguridad para detenerla!"
 },
 {
 "f": "sub",
@@ -101112,7 +101112,7 @@
 "off": 65950,
 "ptr": 66068,
 "t": "Ho ho ho!  ",
-"es": "Ho ho ho!"
+"es": "¡Jo, jo, jo!"
 },
 {
 "f": "rep",
@@ -101176,7 +101176,7 @@
 "off": 66931,
 "ptr": 67056,
 "t": "Calculating... 28820 bytes!  ",
-"es": "Calculando... 28820 bytes!"
+"es": "¡Calculando... 28820 bytes!"
 },
 {
 "f": "rep",
@@ -101184,7 +101184,7 @@
 "off": 66961,
 "ptr": 67060,
 "t": "Calculating... 30868 bytes!  ",
-"es": "Calculando... 30868 bytes!"
+"es": "¡Calculando... 30868 bytes!"
 },
 {
 "f": "rep",
@@ -107480,7 +107480,7 @@
 "off": 140877,
 "ptr": 167044,
 "t": "Hehehe Sign",
-"es": "Cartel de Hehehe"
+"es": "Cartel de Jejeje"
 },
 {
 "f": "rep",
@@ -121984,7 +121984,7 @@
 "off": 905196,
 "ptr": 906392,
 "t": "She can move, all right. Ha ha ha!",
-"es": "Se mueve bien, desde luego. Ja ja ja."
+"es": "Se mueve bien, desde luego. ¡Ja, ja, ja!"
 },
 {
 "f": "rep",

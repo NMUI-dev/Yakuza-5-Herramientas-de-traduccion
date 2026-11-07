@@ -261,7 +261,9 @@ def tabla_poner(t, col, clave, valor):
 
 # ---------------------------------------------------------------- qué es texto (copiado de extraer.py y devil.py)
 # (v1.0.4) frases de una letra que el filtro de abajo tomaba por códigos: «I'm...» (escena E5420) e «I...» (diálogos)
-CORTAS_SI = {"I'm...", 'I...'}
+CORTAS_SI = {"I'm...", 'I...',
+    # (v1.0.7) último renglón de correos (mail.bin) que quedaba en inglés
+    'again.', 'audition.', 'board.', 'children.', 'danger.', 'demo.', 'here.', 'interested.', 'judge.', 'name.', 'themselves.', 'then.', 'though.'}
 
 
 def es_texto(s):
