@@ -73658,14 +73658,14 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01690034.msg",
 "ptr": 1572,
 "t": "Health Loss",
-"es": "Pérdida de vida"
+"es": "Pérdida de salud"
 },
 {
 "f": "nom",
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01690034.msg",
 "ptr": 1576,
 "t": "Health Recovery",
-"es": "Recuperación de vida"
+"es": "Recuperación de salud"
 },
 {
 "f": "nom",
@@ -73917,7 +73917,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01690082.msg",
 "ptr": 2912,
 "t": "When Health Falls to Zero",
-"es": "Cuando la vida llega a cero"
+"es": "Cuando la salud llega a cero"
 },
 {
 "f": "nom",
@@ -83740,7 +83740,7 @@
 "f": "sub",
 "a": "A1130.csv",
 "t": "So we waited until you\neventually showed your face.",
-"es": "Así que esperamos hasta que\neventualmente aparecieras."
+"es": "Así que esperamos hasta\nque por fin aparecieras."
 },
 {
 "f": "sub",
@@ -84148,7 +84148,7 @@
 "f": "sub",
 "a": "A1225.csv",
 "t": "All eyes are on this town\nlike it's ground zero.",
-"es": "Todos los ojos están puestos en este pueblo\ncomo si fuera el punto cero."
+"es": "Todos miran a esta ciudad\ncomo si fuera la zona cero."
 },
 {
 "f": "sub",
@@ -84640,7 +84640,7 @@
 "f": "sub",
 "a": "A1270.csv",
 "t": "We'd have the force\nbreathing down our necks.",
-"es": "Tendríamos a la policía\nen el cogote."
+"es": "Tendríamos a la policía\npisándonos los talones."
 },
 {
 "f": "sub",
@@ -87892,7 +87892,7 @@
 "f": "sub",
 "a": "C3160.csv",
 "t": "So, I'm leaving Horie a memo\non things to do while I'm gone.",
-"es": "Así que le dejaré una nota a Horie\ncon lo que debe hacer mientras no esté."
+"es": "Así que le dejo a Horie una nota\ncon lo que debe hacer mientras no esté."
 },
 {
 "f": "sub",
@@ -88468,7 +88468,7 @@
 "f": "sub",
 "a": "C3340.csv",
 "t": "You're not one percent as disagreeable\nas the typical entertainment executive.",
-"es": "No eres ni un uno por ciento tan desagradable\ncomo el típico ejecutivo del entretenimiento."
+"es": "No eres ni un uno por ciento tan antipático\ncomo el típico ejecutivo del espectáculo."
 },
 {
 "f": "sub",
@@ -89062,7 +89062,7 @@
 "f": "sub",
 "a": "C3500.csv",
 "t": "This revolutionary stage technology allows our\ncontestants to battle it out, concert vs. concert!",
-"es": "Esta revolucionaria tecnología de escenario permite a\nnuestras concursantes batirse en duelo, ¡concierto contra concierto!"
+"es": "¡Esta revolucionaria tecnología permite que\nlas participantes compitan concierto contra concierto!"
 },
 {
 "f": "sub",
@@ -89098,7 +89098,7 @@
 "f": "sub",
 "a": "C3500.csv",
 "t": "Here, our contestants will\ndance to an up-tempo song...",
-"es": "Aquí, nuestras concursantes\nbailarán una canción de tempo rápido..."
+"es": "Aquí, las participantes\nbailarán una canción rápida..."
 },
 {
 "f": "sub",
@@ -89182,7 +89182,7 @@
 "f": "sub",
 "a": "C3502.csv",
 "t": "For our lucky top idol,\nthe Princess League will open doors.",
-"es": "Para nuestra afortunada idol número uno,\nla Princess League le abrirá las puertas."
+"es": "Para nuestra idol afortunada,\nla Princess League abrirá puertas."
 },
 {
 "f": "sub",
@@ -89302,7 +89302,7 @@
 "f": "sub",
 "a": "C3504.csv",
 "t": "Making all who hear her swell with hope,\nI give you the one and only wonder girl...",
-"es": "Haciendo que todos los que la escuchan se llenen de esperanza,\nles presento a la única y maravillosa chica prodigio..."
+"es": "Llenando de esperanza a quien la escucha,\nles presento a la única chica prodigio..."
 },
 {
 "f": "sub",
@@ -89332,7 +89332,7 @@
 "f": "sub",
 "a": "C3510.csv",
 "t": "The Princess League features the most\nexciting battle system... Possibly ever devised!",
-"es": "La Princess League presenta el sistema de batalla\nmás emocionante... ¡posiblemente jamás ideado!"
+"es": "La Princess League tiene el sistema de batalla\nmás emocionante... ¡Quizá el mejor jamás creado!"
 },
 {
 "f": "sub",
@@ -89542,7 +89542,7 @@
 "f": "sub",
 "a": "C3550.csv",
 "t": "For our lucky top idol,\nthe Princess League will open doors.",
-"es": "Para nuestra afortunada idol número uno,\nla Princess League le abrirá las puertas."
+"es": "Para nuestra idol afortunada,\nla Princess League abrirá puertas."
 },
 {
 "f": "sub",
@@ -90082,7 +90082,7 @@
 "f": "sub",
 "a": "D4010.csv",
 "t": "Either way, it's safe to assume that\r\nthere must be some logical reason for it.",
-"es": "De cualquier forma, es seguro asumir que\r\ndebe haber alguna razón lógica para ello."
+"es": "De cualquier forma, podemos suponer que\ndebe haber alguna razón lógica para ello."
 },
 {
 "f": "sub",
@@ -91420,7 +91420,7 @@
 "f": "sub",
 "a": "E5090.csv",
 "t": "These prints match what we got\nfrom the Morinaga murder.",
-"es": "Estas huellas coinciden con las que obtuvimos\ndel asesinato de Morinaga."
+"es": "Estas huellas coinciden con las\ndel asesinato de Morinaga."
 },
 {
 "f": "sub",
@@ -91480,7 +91480,7 @@
 "f": "sub",
 "a": "E5100.csv",
 "t": "So he's leavin' his sorry Sotenbori turf\nwide open for us, is he?",
-"es": "Así que deja su miserable territorio de Sotenbori\na nuestra merced, ¿eh?"
+"es": "¿Así que deja su miserable territorio de Sotenbori\nlibre para nosotros?"
 },
 {
 "f": "sub",
@@ -91564,7 +91564,7 @@
 "f": "sub",
 "a": "E5120.csv",
 "t": "The 300 million yen is the cancellation fee\nthat would go to the event organizers!",
-"es": "¡Los 300 millones de yenes son la multa\nde cancelación que iría a los organizadores!"
+"es": "¡Los 300 millones son la indemnización\nque se pagaría a los organizadores!"
 },
 {
 "f": "sub",
